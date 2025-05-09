@@ -1,4 +1,4 @@
-# Spotify - Study of Genre popularity
+# Spotify - Study of Genre Popularity
 Spotify ....
 This project compares genre popularity from pop through to classiscal music by taking into consideration factors such as song duration, energy, danceability and acousticness. 
 
